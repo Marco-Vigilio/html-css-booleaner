@@ -36,3 +36,12 @@
 .evidenziato-giallo{
     background-color: yellow;
 }
+
+thead{
+    background-color: aqua;
+    color: white;
+}
+
+.azzurrino{
+    background-color: #4EA0FF;
+}
