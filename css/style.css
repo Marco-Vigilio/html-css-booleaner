@@ -45,3 +45,12 @@ thead{
 .azzurrino{
     background-color: #4EA0FF;
 }
+
+.articoli-immagine img{
+    position: relative;
+}
+
+.altri-art{
+    position: absolute;
+    color: white;
+}
