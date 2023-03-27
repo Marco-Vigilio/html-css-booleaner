@@ -1,0 +1,10 @@
+.titolo{
+    background-image: url("../img/pattern.png");
+    background-color: lightblue;
+    height: 100px;
+}
+
+#immagine-logo{
+    width: 15%;
+    height: auto;
+}
