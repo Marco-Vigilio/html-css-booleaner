@@ -1,10 +1,13 @@
-.titolo{
+.sfondo-titolo{
     background-image: url("../img/pattern.png");
-    background-color: lightblue;
-    height: 100px;
+    background-color: #4EA0FF;
+    height: 180px;
+    position: relative;
 }
 
 #immagine-logo{
-    width: 15%;
+    width: 25%;
     height: auto;
+    position: absolute;
+    bottom: 0;
 }
