@@ -1,13 +1,26 @@
 .sfondo-titolo{
     background-image: url("../img/pattern.png");
     background-color: #4EA0FF;
-    height: 180px;
+    height: 100px;
     position: relative;
 }
 
 #immagine-logo{
-    width: 25%;
+    width: 15%;
     height: auto;
     position: absolute;
     bottom: 0;
+}
+
+#titolone-articolo{
+    font-size: 60px;
+}
+
+.testo-grigio{
+    
+    color: lightgray;
+}
+
+.colore-celeste{
+    color: lightskyblue;
 }
